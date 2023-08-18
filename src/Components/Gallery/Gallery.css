@@ -1,0 +1,22 @@
+.imgdesign{
+    border-radius: 0px 50px 0px 30px;
+    background: none;
+}
+
+.wrapper:hover{
+    /* transform: perspective(1.1); */
+ transform: translateY(5px); 
+    filter: brightness(100%);
+   
+  
+  }
+
+
+
+
+.tabchange{
+    color: #ee8c0b;
+    padding-top: 20px;
+    text-decoration: underline;
+    
+}
